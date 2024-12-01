@@ -29,7 +29,7 @@ public class About extends AppCompatActivity {
         tvCopyright.setText("© 2024 Muhammad Rizal Bin Ismail. All Rights Reserved.");
 
         // Link to GitHub page (replace with your actual GitHub URL)
-        github.setText("GitHub: https://github.com/username/repository");
+        github.setText("GitHub: https://github.com/Riezmastar/ICT602");
 
         // Make the website link clickable
         github.setOnClickListener(new View.OnClickListener() {
